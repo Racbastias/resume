@@ -1095,7 +1095,7 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
+	background: rgba(0, 0, 0, 0.5);
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
@@ -1229,7 +1229,7 @@ header .logo a {
 
 /* dropdown nav */
 .main-navigation {
-	background: #000000;
+	background: rgba(0, 0, 0, 0.7);
 	padding: 24px 30px 42px;
 	margin: 0;
 	width: 100%;
@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(https://cdn.wallpapersafari.com/56/23/7zRWGg.png) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1313,7 +1313,7 @@ header .logo a {
 	width: 100%;
 	height: 100%;
 	background: #111111;
-	opacity: .85;
+	opacity: .8;
 }
 
 .intro-content {
@@ -2095,7 +2095,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/bg.jpg) no-repeat center;
+	background: #313131 url(https://cdn.wallpapersafari.com/56/23/7zRWGg.png) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2111,7 +2111,7 @@ header .logo a {
 	width: 100%;
 	height: 100%;
 	background: #151515;
-	opacity: .9;
+	opacity: .5;
 }
 
 #services .section-intro {
