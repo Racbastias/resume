@@ -963,7 +963,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	line-height: 2.4rem;
 }
 .skill-bars li .progress {
-	background: #313131;
+	background: #3498DB;
 	position: relative;
 	height: 100%;
 }
@@ -1099,7 +1099,7 @@ header .top-bar {
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
-	left: 90px;
+	left: 15px;
 	top: 0;
 }
 header .logo {
@@ -1658,7 +1658,7 @@ header .logo a {
 	height: 4.8rem;
 	width: 4.8rem;
 	line-height: 4.8rem;
-	background: #313131;
+	background: #3498DB;
 	border-radius: 50%;
 	text-align: center;
 	color: #FFFFFF;
